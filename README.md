@@ -9,7 +9,7 @@
 
 3. Create new iOS app in Facebook App Dashboard, using Bundle identifier from the project, as on Step 1 in Facebook docs
 
-4. Now you need to initialize CocoaPods. Navigate to project directory in terminal and run `git install`
+4. Now you need to initialize CocoaPods. Navigate to project directory in terminal and run `pod install`
 
 5. Open NotFacebook.xcworkspace (!! NOT NotFacebook.xcodeproj)
 
